@@ -59,9 +59,6 @@ You only need this to download new imagery. The workshop images are provided, so
    ee.Authenticate()                      # opens a browser window to log in
    ee.Initialize(project="YOUR\_PROJECT\_ID")
    ```
-
-If your university restricts creating Cloud projects, ask your IT administrators to create one for you.
-
 More: [Earth Engine access guide](https://developers.google.com/earth-engine/guides/access) and [authentication guide](https://developers.google.com/earth-engine/guides/auth).
 
 ## Learn more

@@ -7,6 +7,13 @@ A hands-on workshop from the Hawaii Data Science Institute on mapping shorelines
 
 ## Option B: Setup locally
 
+### 0\. Clone the repo
+
+```bash
+git clone https://github.com/abmikkelsen/coastal_mapping_workshop.git
+cd coastal_mapping_workshop
+```
+
 ### 1\. Create the environment
 
 Open a terminal (Anaconda Prompt on Windows), `cd` into the `coastal\_mapping\_workshop` folder, then:

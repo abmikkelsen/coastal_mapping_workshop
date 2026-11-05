@@ -59,7 +59,7 @@ You only need this to download new imagery. The workshop images are provided, so
    ee.Authenticate()                      # opens a browser window to log in
    ee.Initialize(project="YOUR\_PROJECT\_ID")
    ```
-More: [Earth Engine access guide](https://developers.google.com/earth-engine/guides/access) and [authentication guide](https://developers.google.com/earth-engine/guides/auth).
+More: [Earth Engine access guide](https://developers.google.com/earth-engine/guides/access) and [authentication guide](https://developers.google.com/earth-engine/guides/auth). CoastSat (see link below) also has a simple how-to tutorial
 
 ## Learn more
 

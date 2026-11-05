@@ -1,0 +1,30 @@
+name: coast
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+
+  # From your imports
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-image
+  - rasterio
+  - ipywidgets
+  - geedownload
+
+  # Needed to run notebooks in VS Code / Jupyter
+  - ipykernel
+  - jupyterlab
+
+  # Commonly used alongside rasterio for geospatial work
+  - geopandas
+  - shapely
+  - pyproj
+  - xarray
+  - rioxarray
+
+  # Handy extras
+  - tqdm
+  - pip

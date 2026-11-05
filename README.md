@@ -2,7 +2,10 @@
 
 A hands-on workshop from the Hawaii Data Science Institute on mapping shorelines from satellite imagery. We start with why shorelines matter and how they are monitored, then work through a Jupyter notebook: load Sentinel-2 images, extract a shoreline with a water index (NDWI) and a threshold, measure its position along a transect, and build a time series. We finish by looking at noise, filtering, seasonality and tide correction, and ask what satellite shorelines can and cannot tell us.
 
-## Setup
+## Option A: Use Google Colab 
+[link to colab notebook](https://colab.research.google.com/drive/13Lv73ncu1_Rm3nR_BphhaLkZ3GCycKi7?usp=sharing)
+
+## Option B: Setup locally
 
 ### 1\. Create the environment
 
@@ -28,7 +31,7 @@ pip install --no-cache-dir git+https://github.com/Coastal-Research-Collaborative
 ```
 
 ### 3\. Start the notebook
-
+in VS code or jupyter lab
 ```bash
 jupyter lab
 ```

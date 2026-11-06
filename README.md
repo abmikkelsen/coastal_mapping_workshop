@@ -5,6 +5,8 @@ A hands-on workshop from the Hawaii Data Science Institute on mapping shorelines
 ## Option A: Use Google Colab 
 [link to colab notebook](https://colab.research.google.com/drive/13Lv73ncu1_Rm3nR_BphhaLkZ3GCycKi7?usp=sharing)
 
+(if everything breaks, [here](https://colab.research.google.com/drive/1-MStSA6N9WNlKPBthrIHNvOjee3whGKE#scrollTo=4c3e125b) is a notebook with outputs already generated)
+
 ## Option B: Setup locally
 
 ### 0\. Clone the repo
